@@ -1,3 +1,1 @@
-# Learning Generalizable Agents via Saliency-Guided Features Decorrelation
-
-<img src="visualize.png" width="70%">
+# Paper1844: Learning Generalizable Agents via Saliency-Guided Features Decorrelation
